@@ -1,0 +1,23 @@
+.label-healthy{
+    color:green;
+}
+
+.label-overweight{
+    color: red;
+}
+
+.label-underweight{
+    color: yellow;
+}
+.delete-btn{
+    color: #e74c3c;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    font-weight: 700;
+    padding: 5px 9px;
+    cursor: pointer;
+    position: absolute;
+    top: -34px;
+    right: -195px;
+}

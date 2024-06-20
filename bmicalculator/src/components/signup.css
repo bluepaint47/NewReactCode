@@ -1,0 +1,102 @@
+body{
+    background-color: #b2abab;
+  }
+  .container{
+    background-color: white;
+    justify-content: center;
+    text-align: center;
+    width: 50%;
+    margin-left: 26%;
+    margin-top: 5%;
+  }
+  h2{
+    
+    font-size: 1.56rem !important;
+    line-height: 207% !important; 
+    margin: -9.373333rem 0 -7.576rem -160px !important;
+
+    text-align: center;
+
+    color: honeydew;
+  }
+
+  .sign{
+  font-size: 4.2rem;
+  line-height: 110%;
+  margin: 2.946667rem 0px -4.832rem 0;
+  padding: 24px 33px -5px;
+  text-align: center;
+  color: white;
+}
+  form{
+    box-sizing: inherit;
+    margin: 147px 430px;
+    height: 313px;
+  }
+  .header{
+    width: 94%;
+    color: aliceblue;
+    background-color: rgb(24, 24, 112);
+    padding: 1px 20px;
+  }
+  .ui-define{
+    background-color: cornsilk;
+    margin-left: 25%;
+    width: 50%;
+    padding: 20px 30px;
+    margin-top: 20px;
+  }
+  input[type=text] ,select{
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0px ;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[type=email] ,select{
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0px ;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+   .input{
+    margin: 20px 20px 20px;
+  }
+  input[type=password]{
+  width: 80%;
+  padding: 10px 80px;
+  margin: 0px -4px 22px 0 !important ;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  }
+  input[type=confirmPassword]{
+    width: 80%;
+  padding: 10px 80px;
+  margin: -14px -4px 22px 0 !important ;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 3rem;
+  }
+  button{
+    width: 30%;
+    background-color: darkgreen;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0px;
+    border: none;
+    border-radius: 22px;
+    margin: 34px 197px 30px !important;
+    width: 20%;
+
+    cursor: pointer !important;
+  }
+  
