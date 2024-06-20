@@ -19,3 +19,6 @@ Hairnic is a frontend work.
 
 ## 6. my-search
 My search is search bar used for seacrch data.This is a simple search with react js.
+
+## 7. to-do-list
+This is the todolist. In Todoist you can break down large tasks into smaller ones using sub-tasks.
