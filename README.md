@@ -16,3 +16,6 @@ this bmi calculator in react. Body Mass Index calculator gives out the BMI value
 
 ## 5. hairnic
 Hairnic is a frontend work.
+
+## 6. my-search
+My search is search bar used for seacrch data.This is a simple search with react js.
