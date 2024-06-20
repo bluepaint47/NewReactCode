@@ -8,3 +8,5 @@ these are diffrent type of reposetories to learn react.
 ## 2 api-calling
 In this api we call api from open ai which api generates diffrent images.
 
+## 3 blog-react
+This is the simple blog .
