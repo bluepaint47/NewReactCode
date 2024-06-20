@@ -13,3 +13,6 @@ This is the simple blog .
 
 ## 4. bmicalculator
 this bmi calculator in react. Body Mass Index calculator gives out the BMI value and categorizes BMI based on provided information.
+
+## 5. hairnic
+Hairnic is a frontend work.
